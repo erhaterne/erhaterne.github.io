@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erhaterne.github.io/a/sitemap.html
+Sitemap: https://erhaterne.github.io/b/sitemap.html
+Sitemap: https://erhaterne.github.io/c/sitemap.html
+Sitemap: https://erhaterne.github.io/d/sitemap.html
